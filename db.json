@@ -1,4 +1,5 @@
-[
+{
+  "products":[
   {
     "kind": "books#volume",
     "id": 1,
@@ -5955,4 +5956,4 @@
       "textSnippet": "Ideal for lawyers, judges, and law students alike, this well-organized work delivers clear insight into evidentiary issues, pinpoints hidden aspects of rules, and cites more than 1,100 cases to illustrate important points."
     }
   }
-]
+]}
